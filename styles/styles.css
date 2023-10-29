@@ -1,0 +1,259 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 24px;
+    color: #000;
+    background-color: #E5E5E5;
+}
+/* main styles */
+.main {
+    background-color: #F5F7FA;
+    width: 1200px;
+    height: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 0px auto;
+}
+.main-content {
+    background-color: #FFFFFF;
+    width: 830px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+/* sidebar style */
+.sidebar {
+    background-color: #1E2939;
+    width: 370px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+.sidebar-image {
+    width: 370px;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    padding-left: 40px;
+}
+
+.sidebar-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+    padding-left:10px;
+}
+
+.sidebar-contacts {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding-left: 40px;
+}
+
+.contact-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 5px;
+}
+
+.contact-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565E6A;
+}
+
+.pins {
+    color: #FB6D3A;
+    margin-left: 20px;
+}
+
+.ul {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+/* about style */
+.about {
+    color: #000;
+    width: 400px;
+    margin-bottom: 40px;
+}
+
+.about-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+
+.about-user {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.about-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+/* project styles */
+.project {
+    color: #000;
+    margin-bottom: 50px;
+}
+
+.projects-list {
+    margin-left: 12px;
+    padding: 0px;
+}
+
+.numbering {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 5px;
+    padding-left: 15px;
+}
+
+.projects-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.project-link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.project-bracket {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+}
+
+/* work styes */
+.work {
+    color: #000;
+    margin-left: 0px;
+}
+
+.company1 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.company2 {
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+.company3 {
+    margin-top: 0px;
+}
+
+.work-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000;
+    margin-bottom: 10px;
+}
+
+.organization {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.period {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.tild {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000;
+}
+
+.work-list {
+    padding: 0px;
+    margin-left: 17px;
+}
+
+.work-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color:#595959;
+}
+
+/* education styles */
+.education {
+    color: #000;
+}
+
+.education-text {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
